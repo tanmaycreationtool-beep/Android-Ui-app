@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.deadline.android"
+    namespace = "com.uistudio.android"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.deadline.android"
+        applicationId = "com.uistudio.android"
         minSdk = 23
         targetSdk = 35
         versionCode = 1
